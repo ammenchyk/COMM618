@@ -1,0 +1,3 @@
+# My question is very broad but is based on the number of crashes by ward and why ward 3 is greatly less than ward 5, ward 2, and ward 7? #
+
+The dataset breaks down the data by type, age, time, and ward. I think this dataset starts to show the who and what were involved in the accident. As well as where the accident took place. I also found another data set that shows age, license plate, who, and possible injury. Both of these data sets are on OpenData.dc. The data is based on what the city provides, therefore it should be accurate and real. If there are any descrepencies, that would be an issue to arise with the city. 
