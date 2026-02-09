@@ -1,0 +1,1 @@
+I want to go back to the data of traffic accidents per ward. I think there is truly something there. I want to also look at population maps, including looking at age groups. I think it would also be important to look at road signs, speed cameras, and speed limits. I think finding that data would help to explain the gaps between the numbers per ward. 
